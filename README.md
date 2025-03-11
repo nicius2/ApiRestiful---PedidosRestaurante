@@ -34,7 +34,7 @@ Este é um projeto de API RESTful para um restaurante, onde os clientes podem es
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/nicius2/ApiRestiful---PedidosRestaurante.git
 
 2. Instale as dependencias
    ```bash
